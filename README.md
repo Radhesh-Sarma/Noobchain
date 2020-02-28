@@ -1,5 +1,4 @@
-# Blockchain-Cryptocurrency-Project
-Implementation of Cryptocurrency using blockchain
+# BlockChain
 
 ## Steps to run
 1.	Install latest Java Development Kit (JDK) and configure the environment variables.
@@ -10,12 +9,18 @@ Implementation of Cryptocurrency using blockchain
 6.	Go to File->Open Projects from file System->Directory->choose the src folder.
 7.	Use the run Button to run the code.
 
-## Authors
+## Team
 
 * [Radhesh Sarma](https://github.com/Radhesh-Sarma) &nbsp;&nbsp;&nbsp;
 * [Yash Chokhani](https://github.com/ychokhani7) &nbsp;&nbsp;&nbsp;
+
+## Technologies Used:
+* Blockchain
+* Java
+* Eclipse IDE
 
 ## License
 
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
+
